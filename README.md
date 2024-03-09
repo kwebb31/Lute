@@ -1,2 +1,2 @@
 # Lute
-A bot employing Google Bard to assist users in DND related queries
+A bot employing Google Gemini to assist users in DND related queries
